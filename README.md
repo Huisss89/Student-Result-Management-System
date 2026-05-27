@@ -3,7 +3,7 @@
 A Student Result Management System developed to manage students’ academic records and calculate course results efficiently. This system allows administrators or authorised users to manage courses, assessments, student information, marks, and generate result analysis reports.
 
 - **Login Screen**
-![Screen1](images/image1.png)
+![Screen2](images/image1.png)
 
 ## 🎯 Project Objectives
 
