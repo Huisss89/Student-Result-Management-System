@@ -2,6 +2,8 @@
 
 A Student Result Management System developed to manage students’ academic records and calculate course results efficiently. This system allows administrators or authorised users to manage courses, assessments, student information, marks, and generate result analysis reports.
 
+- **Login Screen**
+![Screen1](images/image1.png)
 
 ## 🎯 Project Objectives
 
@@ -83,8 +85,26 @@ Student details include:
 
 
 ## 📷 Screenshots
+- **Course Maintenance Screen (Add Course)**
+![Screen1](images/image3.png)
 
+- **Course Maintenance Screen (Update Course)**
+![Screen1](images/image4.png)
 
+- **Course Maintenance Screen (Delete Course)**
+![Screen1](images/image5.png)
+
+- **Course Assessment Maintenance Screen (Add Course Assessment)**
+![Screen1](images/image9.png)
+
+- **Student Record Maintenance Screen (Add Student)**
+![Screen1](images/image6.png)
+
+- **Student Record Maintenance Screen (Delete Student)**
+![Screen1](images/image7.png)
+
+- **View Student Result Record Screen**
+![Screen1](images/image8.png)
 
 ## ⚙️ Functionalities
 
